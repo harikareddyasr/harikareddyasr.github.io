@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://harikareddyasr.github.io/sitemap.xml
